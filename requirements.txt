@@ -1,0 +1,8 @@
+numpy
+langchain
+streamlit
+langchain_community
+sentence-transformers
+weaviate-client
+llama-cpp-python
+pathlib
